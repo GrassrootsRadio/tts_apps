@@ -1,5 +1,5 @@
 ## Overview of TTS Weather Forecaster
-![Application workflow](https://github.com/ks555/tts_apps/blob/master/weather/weather%20diagram.png)
+![Application workflow](https://github.com/GrassrootsRadio/tts_apps/blob/master/weather/weather%20diagram.png)
 
 
 ## Forecast data source
@@ -14,9 +14,9 @@ The current weather application generates new forecast audio on the following sc
 ### Translation tables
 Non-numeric data (weather description, wind direction) provided by the API is translated to the target language using translation tables. If additional language functionality is added, these tables will need to be updated.
 
-[directions](https://github.com/ks555/tts_apps/blob/master/weather/direction_translation_yrno.csv)
+[directions](https://github.com/GrassrootsRadio/tts_apps/blob/master/weather/direction_translation_yrno.csv)
 
-[forecasts](https://github.com/ks555/tts_apps/weather/weather_translation_yrno.csv)
+[forecasts](https://github.com/GrassrootsRadio/tts_apps/weather/weather_translation_yrno.csv)
 
 ## Technical setup
 
